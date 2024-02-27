@@ -1,1 +1,3 @@
-# MvcAuthentication-Template
+# MvcAuthentication-Facebook-Template
+Installed packages
+* 
